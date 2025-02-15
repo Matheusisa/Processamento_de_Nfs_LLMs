@@ -219,5 +219,4 @@ Após o upload, a função Lambda será acionada automaticamente para processar 
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Matheusisa"><img src="https://avatars.githubusercontent.com/u/163449632?v=4" width="100px;" alt="Matheus de Oliveira"/><br /><sub><b>Matheus de Oliveira</b></sub></a><br />
       </td>
   </tdbody>
-</table>#   P r o c e s s a m e n t o _ d e _ N f s _ L L M s  
- 
+</table>
